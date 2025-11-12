@@ -2,25 +2,27 @@
 ------------------------------------------
 
 ## Table of Contents:
-1. About the project
-2. About the dataset
-3. Tools and libraries
-4. Phrase of the project
-   4.1 Data Exploration
-   4.2 Data Cleaning
-   4.3 Data Analysis and Visualizaiton
+1. [About the project](#1-about-the-project)
+2. [About the dataset](#2-about-the-dataset)
+3. [Tools and libraries](#3-tools-and-libraries)
+4. [Phases of the project](#4-phases-of-the-project)
+   - [4.1. Data Exploration](#41-data-exploration)
+   - [4.2. Data Cleaning](#42-data-cleaning)
+   - [4.3. Data Analysis and Visualization](#43-data-analysis-and-visualization)
 ------------------------------------------
 
 ## About the project
 This project is a self-study project, its main objective is to help me practice on a real dataset and strength my analysis skills in Python.
 
 It is about cleaning and analyzing Netflix movies and tv shows data, and getting insights about the countries where they were filmed, their ratings and release years.
+
+The detailed notebook of the project is [here](https://github.com/SteveCui319/Netflix-Movies-and-TV-Shows-Analysis/blob/main/Netflix_Moive_TVshows.ipynb) 
 ------------------------------------------
 
 ## About the dataset 
 This project's dataset is an open-source data from Kaggle.
 
-> You can find it here. (https://www.kaggle.com/datasets/shivamb/netflix-shows)
+> [You can find it here.](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 The dataset contains one "csv" file which has 7787 entries with the following information:
 - Type: Movie or TV Show
