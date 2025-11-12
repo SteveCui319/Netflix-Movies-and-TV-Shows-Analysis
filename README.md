@@ -17,6 +17,7 @@ This project is a self-study project, its main objective is to help me practice 
 It is about cleaning and analyzing Netflix movies and tv shows data, and getting insights about the countries where they were filmed, their ratings and release years.
 
 The detailed notebook of the project is [here](https://github.com/SteveCui319/Netflix-Movies-and-TV-Shows-Analysis/blob/main/Netflix_Moive_TVshows.ipynb) 
+
 ------------------------------------------
 
 ## About the dataset 
