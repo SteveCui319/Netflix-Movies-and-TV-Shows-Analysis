@@ -2,13 +2,13 @@
 ------------------------------------------
 
 ## Table of Contents:
-1. [About the project](#1-about-the-project)
-2. [About the dataset](#2-about-the-dataset)
-3. [Tools and libraries](#3-tools-and-libraries)
-4. [Phases of the project](#4-phases-of-the-project)
-   - [4.1. Data Exploration](#41-data-exploration)
-   - [4.2. Data Cleaning](#42-data-cleaning)
-   - [4.3. Data Analysis and Visualization](#43-data-analysis-and-visualization)
+1. [About the project](#about-the-project)
+2. [About the dataset](#about-the-dataset)
+3. [Tools and libraries](#tools-and-libraries)
+4. [Phases of the project](#phases-of-the-project)
+   - [4.1. Data Exploration](#1-data-exploration)
+   - [4.2. Data Cleaning](#2-data-cleaning)
+   - [4.3. Data Analysis and Visualization](#3-data-analysis-and-visualization)
 ------------------------------------------
 
 ## About the project
@@ -49,41 +49,43 @@ The libraries used are:
 
 # Phases of the project 
 
-1. Data Exploration
-After reading the data I have to explore it, its columns, and the info it contains. So, I've gained information about:
-    i. The dataset size
-   ii. The datatypes of the columns
-  iii. What each column represents
-   iv. What are the information inside the categorized columns such as type, listed_in, rating and country.
+**I. Data Exploration**   
 
-2. Data Cleaning
+After reading the data I have to explore it, its columns, and the info it contains. So, I've gained information about:
+
+   i. The dataset size  
+   ii. The datatypes of the columns  
+   iii. What each column represents  
+   iv. What are the information inside the categorized columns such as type, listed_in, rating and country.  
+   
+-----------------------------------------------------------
+**II. Data Cleaning**
+
 After exploring the data, I need to check it if there are any issues.
 
-  i. Search for duplicates
-    - Fortunately, it has no duplicates.
-
-ii. Search for nulls
-  2.1. Columns with few nulls
-    - Solution 1: Get the missing information by searching for them
-    - Solution 2: Drop them
+1. **Search for duplicates**  
+   - Fortunately, it has no duplicates.  
     
-  2.2. Columns with many nulls
-    - Solution: I wasn't interested in those columns so I left them as they're
-    - Change the incorrect datatypes into appropriate datatypes
+2. **Search for nulls**  
+   2.1. Columns with few nulls  
+   - Solution 1: Get the missing information by searching for them  
+   - Solution 2: Drop them  
 
-3. Data Analysis and Visualization
-The questions I was interested to know are:
-Q: The percentage of movies and tv shows in this data
-
-Q: The growth of content creations over the years
-
-Q: Monitor content creations along the months
-
-Q: The oldest 10 tv series and movies
-
-Q: The highest 10 countries contributed in contect creation
-
-Q: The most frequenct categories
+   2.2. Columns with many nulls  
+   - Solution: I wasn't interested in those columns so I left them as they're  
+       
+3. **Change incorrect datatypes** into appropriate datatypes.
+   
+---------------------------------------------------------------------
+**III. Data Analysis and Visualization**
+   
+The questions I was interested to know are:  
+   Q: The percentage of movies and tv shows in this data  
+   Q: The growth of content creations over the years  
+   Q: Monitor content creations along the months  
+   Q: The oldest 10 tv series and movies  
+   Q: The highest 10 countries contributed in contect creation  
+   Q: The most frequenct categories  
 
 
 
