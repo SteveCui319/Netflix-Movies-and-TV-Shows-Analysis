@@ -47,9 +47,9 @@ The libraries used are:
 - Matplotlib and Seaborn: for visualizations
 ------------------------------------------------------
 
-# Phases of the project 
+## Phases of the project 
 
-**I. Data Exploration**   
+### 1. Data Exploration
 
 After reading the data I have to explore it, its columns, and the info it contains. So, I've gained information about:
 
@@ -59,7 +59,7 @@ After reading the data I have to explore it, its columns, and the info it contai
    iv. What are the information inside the categorized columns such as type, listed_in, rating and country.  
    
 -----------------------------------------------------------
-**II. Data Cleaning**
+### 2. Data Cleaning
 
 After exploring the data, I need to check it if there are any issues.
 
@@ -77,7 +77,7 @@ After exploring the data, I need to check it if there are any issues.
 3. **Change incorrect datatypes** into appropriate datatypes.
    
 ---------------------------------------------------------------------
-**III. Data Analysis and Visualization**
+### 3. Data Analysis and Visualization
    
 The questions I was interested to know are:  
    Q: The percentage of movies and tv shows in this data  
